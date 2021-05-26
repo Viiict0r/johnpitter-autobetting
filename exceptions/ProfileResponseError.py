@@ -1,0 +1,2 @@
+class ProfileResponseError(Exception):
+    pass
